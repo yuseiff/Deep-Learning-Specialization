@@ -47,27 +47,27 @@ Here are some of the key topics from the specialization, along with (example) li
 
 ### **1\. Building a Neural Network from Scratch**
 
-* **File:** \[C1.../Week 4/C1W4\_Assignment\_NN\_from\_Scratch.ipynb\](./C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/C1W4\_Assignment\_NN\_from\_Scratch.ipynb)  
+* **File:** [C1.../Week 4/C1W4\_Assignment\_NN\_from\_Scratch.ipynb\](./C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/C1W4\_Assignment\_NN\_from\_Scratch.ipynb)  
 * **Description:** Implemented a multi-layer neural network from scratch using only NumPy, including forward and backward propagation. This demonstrates a deep understanding of the core mechanics.
 
 ### **2\. Optimization & Regularization**
 
-* **File:** \[C2.../Week 1/C2W1\_Lab\_Regularization\_and\_Dropout.ipynb\](./C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%201/C2W1\_Lab\_Regularization\_and\_Dropout.ipynb)  
+* **File:** [C2.../Week 1/C2W1\_Lab\_Regularization\_and\_Dropout.ipynb\](./C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning,%20Regularization%20and%20Optimization/Week%201/C2W1\_Lab\_Regularization\_and\_Dropout.ipynb)  
 * **Description:** Implemented L2 Regularization and Dropout to prevent overfitting. Also explored optimization algorithms like Adam and RMSProp to train models faster and more effectively.
 
 ### **3\. ML Project Strategy & Error Analysis**
 
-* **File:** \[C3.../Week 1/C3W1\_Lab\_Error\_Analysis.ipynb\](./C3%20-%20Structuring%20Machine%20Learning%20Projects/Week%201/C3W1\_Lab\_Error\_Analysis.ipynb)  
+* **File:** [C3.../Week 1/C3W1\_Lab\_Error\_Analysis.ipynb\](./C3%20-%20Structuring%20Machine%20Learning%20Projects/Week%201/C3W1\_Lab\_Error\_Analysis.ipynb)  
 * **Description:** A crucial part of ML. This involves analyzing misclassified examples from a dev set to prioritize the most effective next steps (e.g., collecting more data, improving the algorithm, or cleaning labels).
 
 ### **4\. Convolutional Neural Networks (ResNets)**
 
-* **File:** \[C4.../Week 2/C4W2\_Assignment\_ResNets.ipynb\](./C4%20-%20Convolutional%20Neural%20Networks/Week%202/C4W2\_Assignment\_ResNets.ipynb)  
+* **File:** [C4.../Week 2/C4W2\_Assignment\_ResNets.ipynb\](./C4%20-%20Convolutional%20Neural%20Networks/Week%202/C4W2\_Assignment\_ResNets.ipynb)  
 * **Description:** Built and trained a Residual Network (ResNet), a state-of-the-art architecture. This project shows proficiency in building deep, complex models for computer vision tasks.
 
 ### **5\. Sequence Models with Attention**
 
-* **File:** \[C5.../Week 3/C5W3\_Assignment\_Machine\_Translation.ipynb\](./C5%20-%20Sequence%20Models/Week%203/C5W3\_Assignment\_Machine\_Translation.ipynb)  
+* **File:** [C5.../Week 3/C5W3\_Assignment\_Machine\_Translation.ipynb\](./C5%20-%20Sequence%20Models/Week%203/C5W3\_Assignment\_Machine\_Translation.ipynb)  
 * **Description:** Implemented an Attention-based model for machine translation. This demonstrates an understanding of modern NLP architectures (the foundation for Transformers) and how to handle sequence-to-sequence tasks.
 
 ## **Dependencies**
